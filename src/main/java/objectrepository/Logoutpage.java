@@ -25,10 +25,10 @@ public class Logoutpage {
 		return signout;
 	}
 	
-//	 public void logOuttheApp()
-//	  {
-//		 getImg().click();
-//		 getSignout().click();
-//	  }
+	 public void logOuttheApp()
+	  {
+		 getImg().click();
+		 getSignout().click();
+	  }
 
 }
